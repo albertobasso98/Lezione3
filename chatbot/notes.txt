@@ -1,0 +1,2 @@
+col chatbot non c'è più bisogno della parte frontend.
+noi useremo telegram, perchè è più semplice da configurare.
